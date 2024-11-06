@@ -1,0 +1,30 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  font-variant: small-caps;
+  font-style: italic;
+}
+
+h1 {
+  font-size: 150px;
+  text-align: center;
+  color: rgb(26, 5, 145);
+  font-variant: small-caps;
+  font-style: italic;
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+p {
+  font-family: Georgia, serif;
+  line-height: 50px;
+  text-indent: 100px;
+  color: rgb(26, 5, 145);
+}
+
+body {
+  background-color: white;
+  background-image: url(pngtree-t-rex-mandala-vector-png-png-image_5071531-removebg-preview.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
